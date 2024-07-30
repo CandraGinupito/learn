@@ -1,5 +1,5 @@
 ### bind mounts 
-digunakan untuk mounting(shairng) file/folder dari sistem host ke container
+digunakan untuk mounting(sharing) file/folder dari sistem host ke container
 
 tipe mount ada 2 
 -bind
